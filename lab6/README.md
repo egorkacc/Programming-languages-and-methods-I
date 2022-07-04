@@ -1,3 +1,1 @@
-# Programming languages and methods 
-## Java
- 
+# The 6-th laboratory work.
