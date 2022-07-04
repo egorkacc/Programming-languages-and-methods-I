@@ -1,3 +1,2 @@
-# Programming languages and methods 
-## Java
+# Report of the 1-st laboratory work.
  
