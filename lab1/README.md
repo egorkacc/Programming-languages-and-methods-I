@@ -1,1 +1,1 @@
-# Report of the 1-st laboratory work.
+# The 1-st laboratory work.
