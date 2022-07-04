@@ -1,1 +1,1 @@
-# Report of the 3-rd laboratory work.
+# The 3-rd laboratory work.
